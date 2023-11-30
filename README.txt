@@ -25,4 +25,5 @@ Approaches:
 3.A Greedy Algorithm(GreedyAlgorithmREADME.txt)
 NOTE: Approaches are discussed in their respective READMEs.
 
-NOTE: Different codes are in their respective folders along with their READMEs.
+NOTE: Different codes are in their respective folders along with their READMEs. 
+NOTE: Please make sure not to change the directory structure in the folders.
